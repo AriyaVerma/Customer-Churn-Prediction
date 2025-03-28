@@ -19,21 +19,29 @@ HasCrCard: Indicates if the customer has a credit card.
 IsActiveMember: Indicates if the customer is an active member.
 EstimatedSalary: Customer's estimated salary.
 Exited: Indicates if the customer has exited the bank.
+
+
 Key Analyses
 Churn by Geography: Analysis of churn rates across different regions.
 Churn by Tenure: Examines how customer tenure affects churn likelihood.
 Credit Score vs. Churn: Identifies the impact of credit scores on churn.
 Product Ownership vs. Churn: Investigates the relationship between the number of products owned and churn rates.
 Customer Segmentation: Analyzes churn patterns by gender, age, and active membership status.
+
+
 Key Findings
 Customers in specific regions have higher churn rates.
 Tenure is a significant factor influencing churn.
 Higher credit scores are associated with lower churn rates.
 Customers owning more products are less likely to churn.
+
+
 Skills Demonstrated
 Advanced SQL querying
 Data segmentation and analysis
 Use of subqueries, CTEs, aggregations
+
+
 Conclusion
 This project provides insights into the key factors influencing customer churn, helping financial institutions develop targeted retention strategies.
 
