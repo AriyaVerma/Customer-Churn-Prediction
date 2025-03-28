@@ -1,3 +1,19 @@
 -- ==========================================
 -- Customer Churn Analysis Queries
 -- ==========================================
+create table customers (
+    RowNumber int,
+    Customer_id int primary key,
+    Surname varchar(50),
+    CreditScore int,
+    Geography varchar(50),
+    Gender varchar(10),
+    Age int,
+    Tenure int,
+    Balance decimal(15,2),
+    NumberOfProducts int,
+    HasCrCard boolean,
+    IsActiveMember boolean,
+    EstimatedSalary Decimal(15,2)
+    Exited boolean
+);
