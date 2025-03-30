@@ -1,10 +1,10 @@
 # Customer-Churn-Prediction
 This project analyzes banking customer churn data using SQL to identify key factors affecting customer churn. The analysis covers various aspects, including churn by geography, tenure, product ownership, and customer demographics.
 
-**Project Overview**
+# **Project Overview**
 The primary objective of this project is to provide insights into customer churn patterns, helping banks improve their retention strategies.
 
-**Dataset**
+# **Dataset**
 RowNumber: Sequential number for each row.
 CustomerId: Unique customer identifier.
 Surname: Customer surname.
@@ -21,7 +21,7 @@ EstimatedSalary: Customer's estimated salary.
 Exited: Indicates if the customer has exited the bank.
 
 
-**Key Analyses**
+# **Key Analyses**
 Churn by Geography: Analysis of churn rates across different regions.
 Churn by Tenure: Examines how customer tenure affects churn likelihood.
 Credit Score vs. Churn: Identifies the impact of credit scores on churn.
@@ -29,20 +29,20 @@ Product Ownership vs. Churn: Investigates the relationship between the number of
 Customer Segmentation: Analyzes churn patterns by gender, age, and active membership status.
 
 
-**Key Findings**
+# **Key Findings**
 Customers in specific regions have higher churn rates.
 Tenure is a significant factor influencing churn.
 Higher credit scores are associated with lower churn rates.
 Customers owning more products are less likely to churn.
 
 
-**Skills Demonstrated**
+# **Skills Demonstrated**
 Advanced SQL querying
 Data segmentation and analysis
 Use of subqueries, CTEs, aggregations
 
 
-**Conclusion**
+# **Conclusion**
 This project provides insights into the key factors influencing customer churn, helping financial institutions develop targeted retention strategies.
 
 
