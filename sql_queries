@@ -16,4 +16,4 @@ create table customers (
     IsActiveMember boolean,
     EstimatedSalary Decimal(15,2)
     Exited boolean
-);
+):
