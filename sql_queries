@@ -17,4 +17,3 @@ create table customers (
     EstimatedSalary Decimal(15,2)
     Exited boolean
 ):
-   
